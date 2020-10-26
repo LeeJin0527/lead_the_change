@@ -78,7 +78,8 @@ K-사이버 방역 !!
 
 #### 분석 기준 설정
 
-<img src = "/img/analysis_standard.png" width= "450px" height="300px"></img>
+![analysis_standard](https://user-images.githubusercontent.com/33755241/97140003-1f760800-179f-11eb-948e-f7d6d9be1f32.PNG)
+
 
 
 
